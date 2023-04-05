@@ -106,3 +106,19 @@ No errors were found when testing with  **W3C validator**
 No errors were found when passing through  **Jigsaw validator**
 
 
+<br>
+<br>
+
+#### Deployment
+<hr>
+<br>
+
+The site was deployed to GitHub pages. The steps to deploy are as follows:
+- In the GitHub repository, navigate to the Settings tab
+- On your left select pages
+- Scroll down to source
+- From the source section drop-down menu, select the Master Branch
+- Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+
+[Here is the site](https://adams220.github.io/My-Repo/)
+
