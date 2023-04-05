@@ -119,6 +119,19 @@ The site was deployed to GitHub pages. The steps to deploy are as follows:
 - Scroll down to source
 - From the source section drop-down menu, select the Master Branch
 - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+<br>
+https://adams220.github.io/My-Repo/
 
-[Here is the site](https://adams220.github.io/My-Repo/)
+<br>
+<br>
+
+#### Credits
+<hr>
+<br>
+
+- Steps to create Contact page was taken from [W3Schools](https://www.w3schools.com)
+- Images and videos were taken from pexels [Pexels](https://www.pexels.com)
+- Icons where taken from [Font Awesome](https://fontawesome.com)
+
+
 
