@@ -36,7 +36,7 @@ The home page includes an image of a person in a meditating posture and a quiet 
 
 
 
-### History section
+### History Section
 
 <hr>
 <br>
@@ -72,7 +72,7 @@ It will help the user to easily connect to the site's social media accounts.
 
 <br>
 
-#### Meditation page
+#### Meditations page
 <hr>
 <br>
 The meditations page is loaded with videos of people meditating to help the user to pratice.
@@ -90,4 +90,19 @@ The contact page will connect the user to Meditation via email if they need any 
 <br>
 
 ![header image for index](/assets/css/images/Screenshot%20(83).png)
+
+<br>
+<br>
+
+##### Validator Testing
+<hr>
+<br>
+
+- HTML
+No errors were found when testing with  **W3C validator**
+<br>
+
+- CSS
+No errors were found when passing through  **Jigsaw validator**
+
 
