@@ -1,3 +1,7 @@
+@import url('https://font.googleapis.com/css2family=Lato:wght@300&family=Oswald&display=swap');
+
+
+
 body{
     font-family: 'khula', sans-serif;
       height: 100%;
@@ -64,6 +68,7 @@ body{
     border-bottom:1px solid #3a3a3a;
       
     }
+    
     
     #medi-outer {
         height: 600px;
@@ -176,7 +181,7 @@ body{
     
     
     
-    .container{background-image: url(https://images.pexels.com/photos/6740748/pexels-photo-6740748.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    .container{background-image: url('./images/namaste.jpg');
                width: 500px;
             background-position: center center;
             background-repeat: no-repeat;
@@ -191,7 +196,7 @@ body{
     
     
     @media screen and (max-width: 480px){
-     .container{background-image: url(https://images.pexels.com/photos/6740748/pexels-photo-6740748.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+     .container{background-image: url('./images/namaste.jpg');
                width: 350px;
             background-position: center center;
             background-repeat: no-repeat;
