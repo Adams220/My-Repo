@@ -10,18 +10,22 @@ The site will attract users who are instrested in physical and spiritual connect
 
 ## Navigation bar 
 
+<hr>
 <br>
+
 - The navigation bar is featured in all three pages. The responsive navigation bar has links to Home page, Meditations and Contact.
 - It guides the user to easily visit other pages without the need to use the back button.
 
 
 ![header image for index](/assets/css/images/Screenshot%20(76).png)
 
-<hr>
+<br>
+<br>
 
 ### Home page image
 
 <hr>
+<br>
 
 ![header image for index](/assets/css/images/Screenshot%20(70).png)
 
@@ -30,11 +34,12 @@ The site will attract users who are instrested in physical and spiritual connect
 The home page includes an image of a person in a meditating posture and a quiet environment. This will help the user to understand the purpose of the site and what's all about.
 
 
-<hr>
 
-### History Section
+
+### History section
 
 <hr>
+<br>
 
 This section of the home page will help the user understand the history and where the practice originated from.
 <br>
@@ -47,17 +52,42 @@ This section of the home page will help the user understand the history and wher
 ### Difference between Meditation and Yoga
 
 <hr>
+<br>
 The image will guide the user to understand the difference between meditation and yoga.
 <br>
 
 ![header image for index](/assets/css/images/Screenshot%20(81).png)
 
 
-### Footer
+#### Footer
 <hr>
-
-![header image for index](/assets/css/images/Screenshot%20(82).png)
+<br>
 
 The footer has links to social media apps of Meditation site.<br>
 It will help the user to easily connect to the site's social media accounts.
+
+<br>
+
+![header image for index](/assets/css/images/Screenshot%20(82).png)
+
+<br>
+
+#### Meditation page
+<hr>
+<br>
+The meditations page is loaded with videos of people meditating to help the user to pratice.
+It also helps the user to know the basic steps of meditation.
+<br>
+
+![header image for index](/assets/css/images/Screenshot%20(75).png)
+
+<br>
+
+#### Contact page
+<hr>
+<br>
+The contact page will connect the user to Meditation via email if they need any clarifications, contributions to the page or additional information.
+<br>
+
+![header image for index](/assets/css/images/Screenshot%20(83).png)
 
