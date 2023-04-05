@@ -17,6 +17,15 @@ The home page includes an image of a person in a meditating posture and a quiet 
 ![header image for index](/assets/css/images/Screenshot%20(76).png)
 
 <hr>
-###History section
+
+### History section
+
 This section of the home page will help the user understand the history and where the practice originated from.
+![image for history](/assets/css/images/Screenshot%20(71).png)
+
+
+<hr>
+
+#### Difference between Meditation and Yoga
+The image will guide the user to understand the difference between meditation and yoga.
 ![header image for index](/assets/css/images/Screenshot%20(71).png)
