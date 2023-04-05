@@ -1,17 +1,22 @@
 # Meditation
+This site is built to help users to understand how to meditate, reasons, benefits and side effects of meditation.
+The site will attract users who are instrested in physical and spiritual connections.
 
 <hr>
-![header image for index](/assets/css/images/Screenshot%20(76).png)
-![header for meditations](/assets/css/images/Screenshot%20(79).png)
-![header for contact](/assets/css/images/Screenshot%20(80).png)
+
 
 ## Features
 <hr>
 
-* Navigation bar 
+## Navigation bar 
 - The navigation bar is featured in all three pages. The responsive navigation bar has links to Home page, Meditations and Contact.
 - It guides the user to easily visit other pages without the need to use the back button.
 
-## Meditation 
+### Home page header
+The home page includes an image of a person in a meditating posture and a quiet environment. This will help the user to understand the purpose of the site and what's all about.
 ![header image for index](/assets/css/images/Screenshot%20(76).png)
 
+<hr>
+###History section
+This section of the home page will help the user understand the history and where the practice originated from.
+![header image for index](/assets/css/images/Screenshot%20(71).png)
