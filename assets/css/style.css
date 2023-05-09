@@ -79,7 +79,7 @@ body{
     
     
     
-     #medi-outer {background: url('images/pexels-prasanth-inturi-1051838.jpg') center center;
+     #medi-outer {background: url('../images/pexels-prasanth-inturi-1051838.jpg') center center;
                   background-size: cover;
                  }
     
@@ -93,33 +93,43 @@ body{
     h2, h3, h4, h5, h6{
       font-size: 20px;
          font-family: cursive;
+         text-align: center;
       color: brown
+      
       
     }
     p{color: black;
       font-size: 20px;
       font-weight: normal; 
+      text-align: center;
      }
     
     
     #container {
         align-items: center;
-    
+    text-align: center;
       
     } 
     
     #container p {
     margin-right: 1rem;    
     margin: 0px 0px 15px 20px;
+    
      
     }
     
+    .difference {
+text-align: center;
+
+    }
       
     
     .types, ol, .ways{
       font-family: 'Montserrat', sans-serif;
       color: black;
       font-size: 20px;
+      text-align: center;
+      list-style-position: inside;
     } 
     
     li:not(:last-child) {
@@ -153,9 +163,9 @@ body{
     
     footer{
       width: 100%;
-      position: relative;
+      position: sticky;
       bottom: 0;
-      margin-top: 1000px;
+      margin-top: 100px;
     }
     
     input[type="text"], #email,textarea{
@@ -181,7 +191,7 @@ body{
     
     
     
-    .container{background-image: url('./images/namaste.jpg');
+    .container{background-image: url('../images/namaste.jpg');
                width: 500px;
             background-position: center center;
             background-repeat: no-repeat;
