@@ -17,7 +17,7 @@ The site will attract users who are instrested in physical and spiritual connect
 - It guides the user to easily visit other pages without the need to use the back button.
 
 
-![header image for index](/assets/css/images/Screenshot%20(76).png)
+![header image for index](/assets/images/Screenshot%20(76).png)
 
 <br>
 <br>
@@ -27,7 +27,7 @@ The site will attract users who are instrested in physical and spiritual connect
 <hr>
 <br>
 
-![header image for index](/assets/css/images/Screenshot%20(70).png)
+![header image for index](/assets/images/Screenshot%20(70).png)
 
 <br>
 
@@ -44,7 +44,7 @@ The home page includes an image of a person in a meditating posture and a quiet 
 This section of the home page will help the user understand the history and where the practice originated from.
 <br>
 
-![image for history](/assets/css/images/Screenshot%20(77).png)
+![image for history](/assets/images/Screenshot%20(77).png)
 
 
 <br>
@@ -56,7 +56,7 @@ This section of the home page will help the user understand the history and wher
 The image will guide the user to understand the difference between meditation and yoga.
 <br>
 
-![header image for index](/assets/css/images/Screenshot%20(81).png)
+![header image for index](/assets/images/Screenshot%20(81).png)
 
 
 #### Footer
@@ -68,7 +68,7 @@ It will help the user to easily connect to the site's social media accounts.
 
 <br>
 
-![header image for index](/assets/css/images/Screenshot%20(82).png)
+![header image for index](/assets/images/Screenshot%20(82).png)
 
 <br>
 
@@ -79,7 +79,7 @@ The meditations page is loaded with videos of people meditating to help the user
 It also helps the user to know the basic steps of meditation.
 <br>
 
-![header image for index](/assets/css/images/Screenshot%20(75).png)
+![header image for index](/assets/images/Screenshot%20(75).png)
 
 <br>
 
@@ -89,7 +89,7 @@ It also helps the user to know the basic steps of meditation.
 The contact page will connect the user to Meditation via email if they need any clarifications, contributions to the page or additional information.
 <br>
 
-![header image for index](/assets/css/images/Screenshot%20(83).png)
+![header image for index](/assets/images/Screenshot%20(83).png)
 
 <br>
 <br>
@@ -130,7 +130,7 @@ https://adams220.github.io/My-Repo/
 <br>
 
 - Steps to create Contact page was taken from [W3Schools](https://www.w3schools.com)
-- Images and videos were taken from pexels [Pexels](https://www.pexels.com)
+- Images and videos were taken from [Pexels](https://www.pexels.com)
 - Icons where taken from [Font Awesome](https://fontawesome.com)
 
 
