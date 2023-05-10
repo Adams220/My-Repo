@@ -1,4 +1,4 @@
-# Meditation
+# ULTIMATEMINDS
 
 ![header image for index](/assets/images/Meditation-wireframe.png)
 
