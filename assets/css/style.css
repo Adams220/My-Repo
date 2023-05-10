@@ -2,239 +2,244 @@
 
 
 /*body*/
-body{
-    font-family: 'khula', sans-serif;
-      height: 100%;
-      margin: auto;
-      overflow: auto;
+body {
+  font-family: 'khula', sans-serif;
+  height: 100%;
+  margin: auto;
+  overflow: auto;
+}
+
+
+* {
+  box-sizing: border-box;
+
+}
+
+
+html {
+  width: 100%;
+  height: 100%;
+}
+
+/* this for the h1 class*/
+.header {
+  padding: 60px;
+  text-transform: uppercase;
+  background: snow;
+  letter-spacing: 2px;
+  font-family: 'Monoton', cursive;
+
+}
+
+
+a {
+  text-decoration: none;
+
+}
+
+
+/* navigation bar */
+#menu {
+  letter-spacing: 0px;
+  font-family: Arial, Helvetica, sans-serif;
+
+
+}
+
+#menu {
+  line-height: 75px;
+
+}
+
+
+#menu li {
+  float: right;
+  list-style-type: none;
+  margin-right: 30px;
+  font-size: 17px;
+
+}
+
+#menu a {
+  color: black;
+
+}
+
+#menu a:hover {
+  border-bottom: 1px solid silver;
+
+}
+
+.active {
+  border-bottom: 1px solid #3a3a3a;
+
+}
+
+/*h1 image*/
+#medi-outer {
+  height: 600px;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+}
+
+
+
+#medi-outer {
+  background: url('../images/pexels-prasanth-inturi-1051838.jpg') center center;
+  background-size: cover;
+}
+
+.double {
+  color: black;
+  opacity: 0.1;
+}
+
+
+/*this to style other headings*/
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-size: 20px;
+  font-family: cursive;
+  text-align: center;
+  color: brown
+}
+
+/*for the p texts*/
+p {
+  color: black;
+  font-size: 20px;
+  font-weight: normal;
+  text-align: center;
+}
+
+
+/*to style the first image under h2 and text*/
+#container {
+  align-items: center;
+  text-align: center;
+
+}
+
+#container p {
+  margin-right: 1rem;
+  margin: 0px 0px 15px 20px;
+
+
+}
+
+.difference {
+  text-align: center;
+
+}
+
+
+/*to style the list text*/
+.types,
+ol,
+.ways {
+  font-family: 'Montserrat', sans-serif;
+  color: black;
+  font-size: 20px;
+  text-align: center;
+  list-style-position: inside;
+}
+
+li:not(:last-child) {
+  margin-bottom: 10px;
+}
+
+
+/*style the line under the nav bar in meditation and contact menu*/
+hr {
+  border-top: 1px solid #c0c0c0;
+  width: 100%;
+  margin: 5px 0;
+
+}
+
+
+/*footer*/
+.social {
+  text-align: center;
+  padding: 5px;
+  background-color: snow;
+  color: black;
+
+
+}
+
+.footer_text {
+  text-align: center;
+  padding: 5px;
+  background-color: snow;
+  color: black;
+
+}
+
+footer {
+  width: 100%;
+  position: sticky;
+  bottom: 0;
+  margin-top: 100px;
+}
+
+/*contact form*/
+
+input[type="text"],
+#email,
+textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+}
+
+input[type="submit"] {
+  background-color: #04AA6D;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+
+}
+
+
+/*image in contact form*/
+.container {
+  background-image: url('../images/namaste.jpg');
+  width: 500px;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 4px;
+
+}
+
+
+/*style mobile view for image in contact form*/
+@media screen and (max-width: 480px) {
+  .container {
+    background-image: url('./images/namaste.jpg');
+    width: 350px;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 4px;
+
   }
-
-
-  *{box-sizing: border-box;
-
-  }
-
- 
- html{
- width: 100%;
- height: 100%;
- }
-
- /* this for the h1 class*/
- .header {
-    padding: 60px;
-    text-transform: uppercase;
-     background: snow;
-    letter-spacing: 2px;
-    font-family: 'Monoton', cursive;
-   
-  }
-
-
-  a{text-decoration: none;
-
-  }
-  
-  
-  /* navigation bar */
- #menu {
-   letter-spacing: 0px;
- font-family: Arial, Helvetica, sans-serif;
- 
-   
- }
- 
- #menu {
-   line-height: 75px;
-     
- }
- 
- 
- #menu li {
- float: right;
- list-style-type: none;
- margin-right: 30px;
-   font-size: 17px;
-   
- }
-
- #menu a { 
-    color: black;
-      
-    }
-    
-    #menu a:hover {
-    border-bottom: 1px solid silver;
-      
-    }
-    
-    .active{
-    border-bottom:1px solid #3a3a3a;
-      
-    }
-    
-    /*h1 image*/
-    #medi-outer {
-        height: 600px;
-        width: 100%;
-     overflow: hidden;
-        position: relative;
-    }
-    
-    
-    
-     #medi-outer {background: url('../images/pexels-prasanth-inturi-1051838.jpg') center center;
-                  background-size: cover;
-                 }
-    
-    .double{
-      color: black;
-      opacity: 0.1;
-    }
-    
-    
-    /*this to style other headings*/
-    h2, h3, h4, h5, h6{
-      font-size: 20px;
-         font-family: cursive;
-         text-align: center;
-      color: brown
-      
-      
-    }
-
-    /*for the p texts*/
-    p{color: black;
-      font-size: 20px;
-      font-weight: normal; 
-      text-align: center;
-     }
-    
-    
-     /*to style the first image under h2 and text*/
-    #container {
-        align-items: center;
-    text-align: center;
-      
-    } 
-    
-    #container p {
-    margin-right: 1rem;    
-    margin: 0px 0px 15px 20px;
-    
-     
-    }
-    
-    .difference {
-text-align: center;
-
-    }
-      
-    
-    /*to style the list text*/
-    .types, ol, .ways{
-      font-family: 'Montserrat', sans-serif;
-      color: black;
-      font-size: 20px;
-      text-align: center;
-      list-style-position: inside;
-    } 
-    
-    li:not(:last-child) {
-        margin-bottom: 10px;
-    }
-    
-    
-    /*style the line under the nav bar in meditation and contact menu*/
-    hr {
-        border-top: 1px solid #c0c0c0;
-        width: 100%;
-        margin: 5px 0;
-    
-    }
-    
-
-    /*footer*/
-    .social{
-      text-align:center;
-      padding: 5px;
-      background-color: snow;
-      color: black;
-    
-    
-    }
-    
-    .footer_text{
-    text-align:center;
-      padding: 5px;
-      background-color: snow;
-      color: black;
-    
-    }
-    
-    footer{
-      width: 100%;
-      position: sticky;
-      bottom: 0;
-      margin-top: 100px;
-    }
-
-    /*contact form*/
-    
-    input[type="text"], #email,textarea{
-    width: 100%;
-      padding: 12px;
-     border: 1px solid #ccc;
-    border-radius: 4px;  
-    box-sizing: border-box;
-    margin-top: 6px;
-    margin-bottom: 16px;
-    resize: vertical;
-    }
-    
-    input[type="submit"]{
-    background-color: #04AA6D;
-      color: white;
-      padding: 12px 20px;
-      border: none;
-      border-radius: 4px;
-      cursor: pointer;
-      
-    }
-    
-    
-    /*image in contact form*/
-    .container{background-image: url('../images/namaste.jpg');
-               width: 500px;
-            background-position: center center;
-            background-repeat: no-repeat;
-            background-size: cover;
-            position: relative;
-            border-radius: 5px;
-            background-color: #f2f2f2;
-            padding: 4px;
-               
-    }
-    
-    
-    /*style mobile view for image in contact form*/
-    @media screen and (max-width: 480px){
-     .container{background-image: url('./images/namaste.jpg');
-               width: 350px;
-            background-position: center center;
-            background-repeat: no-repeat;
-            background-size: cover;
-            position: relative;
-            border-radius: 5px;
-            background-color: #f2f2f2;
-            padding: 4px; 
-    
-      } 
-      }
-    
-    
-    
-    
-    
-    
-    
+}

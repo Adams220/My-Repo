@@ -1,4 +1,8 @@
 # Meditation
+
+![header image for index](/assets/images/Meditation-wireframe.png)
+
+
 This site is built to help users to understand how to meditate, reasons, benefits and side effects of meditation.
 The site will attract users who are instrested in physical and spiritual connections.
 
@@ -132,6 +136,7 @@ https://adams220.github.io/My-Repo/
 - Steps to create Contact page was taken from [W3Schools](https://www.w3schools.com)
 - Images and videos were taken from [Pexels](https://www.pexels.com)
 - Icons where taken from [Font Awesome](https://fontawesome.com)
+- History of meditation  [zenfulspirit](https://zenfulspirit.com/)
 
 
 
