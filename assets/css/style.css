@@ -1,7 +1,6 @@
 @import url('https://font.googleapis.com/css2family=Lato:wght@300&family=Oswald&display=swap');
 
 
-/*body*/
 body {
   font-family: 'khula', sans-serif;
   height: 100%;
@@ -21,7 +20,6 @@ html {
   height: 100%;
 }
 
-/* this for the h1 class*/
 .header {
   padding: 60px;
   text-transform: uppercase;
@@ -38,7 +36,7 @@ a {
 }
 
 
-/* navigation bar */
+
 #menu {
   letter-spacing: 0px;
   font-family: Arial, Helvetica, sans-serif;
@@ -75,7 +73,6 @@ a {
 
 }
 
-/*h1 image*/
 #medi-outer {
   height: 600px;
   width: 100%;
@@ -96,7 +93,6 @@ a {
 }
 
 
-/*this to style other headings*/
 h2,
 h3,
 h4,
@@ -108,7 +104,6 @@ h6 {
   color: brown
 }
 
-/*for the p texts*/
 p {
   color: black;
   font-size: 20px;
@@ -117,7 +112,7 @@ p {
 }
 
 
-/*to style the first image under h2 and text*/
+
 #container {
   align-items: center;
   text-align: center;
@@ -137,7 +132,6 @@ p {
 }
 
 
-/*to style the list text*/
 .types,
 ol,
 .ways {
@@ -153,7 +147,6 @@ li:not(:last-child) {
 }
 
 
-/*style the line under the nav bar in meditation and contact menu*/
 hr {
   border-top: 1px solid #c0c0c0;
   width: 100%;
@@ -162,7 +155,6 @@ hr {
 }
 
 
-/*footer*/
 .social {
   text-align: center;
   padding: 5px;
@@ -187,7 +179,6 @@ footer {
   margin-top: 100px;
 }
 
-/*contact form*/
 
 input[type="text"],
 #email,
@@ -213,7 +204,6 @@ input[type="submit"] {
 }
 
 
-/*image in contact form*/
 .container {
   background-image: url('../images/namaste.jpg');
   width: 500px;
@@ -228,7 +218,7 @@ input[type="submit"] {
 }
 
 
-/*style mobile view for image in contact form*/
+
 @media screen and (max-width: 480px) {
   .container {
     background-image: url('./images/namaste.jpg');
